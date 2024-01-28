@@ -1,0 +1,2 @@
+,metric,info_clf,mean_accuracy,std_accuracy,mean_sensitivity,std_sensitivity,mean_specificity,std_specificity,mean_auc,std_auc,mean_precision,std_precision,mean_recall,std_recall,mean_f1,std_f1,best_params.C,best_params.kernel
+0,"('MED1', 'MED2', 'MED3', 'MED4', 'MED5', 'MED6', 'MED7', 'MED8', 'MED9', 'MED10')",svm,83.77777777777779,2.149935399546279,74.0,4.049691346263318,93.5,3.1662280397975118,0.319,0.10611738783064724,94.0,2.898275349237887,74.0,4.049691346263318,81.7777777777778,4.049691346263318,1,linear
